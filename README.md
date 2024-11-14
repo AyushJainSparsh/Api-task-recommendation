@@ -79,7 +79,7 @@ Please open an issue if you have suggestions or encounter any problems.
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/AyushJainSparsh/api-task-recommendationl/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/AyushJainSparsh/api-task-recommendation/blob/main/LICENSE).
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/AyushJainSparsh/api-task-recommendation?tab=MIT-1-ov-file)
 
